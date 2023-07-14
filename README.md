@@ -1,2 +1,2 @@
 # translatable-frontend
-small project that switches languages in frontend
+small project that switches text languages in frontend
